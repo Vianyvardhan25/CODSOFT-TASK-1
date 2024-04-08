@@ -1,0 +1,153 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_23 {
+  width: 393px;
+  height: 852px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_25 {
+  width: 393px;
+  height: 909px;
+  background: url("../images/v1_25.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_26 {
+  width: 146px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 782px;
+  left: 16px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_27 {
+  width: 315px;
+  height: 60px;
+  background: rgba(145,182,252,0.8299999833106995);
+  opacity: 1;
+  position: absolute;
+  top: 376px;
+  left: 44px;
+  overflow: hidden;
+}
+.v1_28 {
+  width: 315px;
+  height: 61px;
+  background: rgba(145,182,252,0.8299999833106995);
+  opacity: 1;
+  position: absolute;
+  top: 514px;
+  left: 44px;
+  overflow: hidden;
+}
+.v1_29 {
+  width: 315px;
+  height: 61px;
+  background: rgba(145,182,252,0.8299999833106995);
+  opacity: 1;
+  position: absolute;
+  top: 621px;
+  left: 44px;
+  overflow: hidden;
+}
+.v1_30 {
+  width: 272px;
+  color: rgba(0,0,0,0.9100000262260437);
+  position: absolute;
+  top: 349px;
+  left: 44px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_31 {
+  width: 272px;
+  color: rgba(0,0,0,0.9100000262260437);
+  position: absolute;
+  top: 487px;
+  left: 44px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_32 {
+  width: 119px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 782px;
+  left: 148px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_33 {
+  width: 236px;
+  height: 64px;
+  background: rgba(196,197,243,1);
+  opacity: 1;
+  position: absolute;
+  top: 700px;
+  left: 84px;
+  overflow: hidden;
+}
+.v1_34 {
+  width: 114px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 714px;
+  left: 139px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_35 {
+  width: 128px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 604px;
+  left: 44px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_36 {
+  width: 333px;
+  color: rgba(54,67,135,1);
+  position: absolute;
+  top: 242px;
+  left: 60px;
+  font-family: Inknut Antiqua;
+  font-weight: Bold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
